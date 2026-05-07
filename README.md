@@ -114,10 +114,10 @@ Abiel Tesfai — [LinkedIn](https://linkedin.com/in/atesfai) ·
 ## Screenshots
 
 ### Categories
-![Categories](categories.png)
+![Categories](Categories.png)
 
 ### Sample issues
 ![Sample issues](Sample-issues.png)
 
 ### Troubleshooting steps
-![Troubleshooting steps](troubleshooting-steps.png)
+![Troubleshooting steps](Troubleshooting-steps.png)
