@@ -113,14 +113,11 @@ Abiel Tesfai — [LinkedIn](https://linkedin.com/in/atesfai) ·
 
 ## Screenshots
 
-### Azure OpenAI
-![Azure OpenAI](screenshot-azure-openai.png)
-
 ### Categories
-![Categories](screenshot-categories.png)
+![Categories](categories.png)
 
 ### Sample issues
-![Sample issues](screenshot-sample-issues.png)
+![Sample issues](sample-issues.png)
 
 ### Troubleshooting steps
-![Troubleshooting steps](screenshot-troubleshooting-steps.png)
+![Troubleshooting steps](troubleshooting-steps.png)
