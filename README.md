@@ -117,7 +117,7 @@ Abiel Tesfai — [LinkedIn](https://linkedin.com/in/atesfai) ·
 ![Categories](categories.png)
 
 ### Sample issues
-![Sample issues](sample-issues.png)
+![Sample issues](Sample-issues.png)
 
 ### Troubleshooting steps
 ![Troubleshooting steps](troubleshooting-steps.png)
